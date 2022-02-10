@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "enmes:item/clitoris"
+    "layer0": "enmes:item/banana"
   }
 }
